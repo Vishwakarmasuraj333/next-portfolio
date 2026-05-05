@@ -24,7 +24,7 @@ export default function About() {
             <img
               src="/ss.jpeg"
               alt="profile"
-              className="relative w-full h-full object-cover rounded-2xl border-4 border-cyan-600 shadow-2xl hover:scale-105 transition duration-500"
+              className="relative w-full h-full object-cover rounded-2xl border-4 border-cyan-600 shadow-2xl hover:scale-105 transition duration-500 pt-20"
             />
           </div>
         </motion.div>
