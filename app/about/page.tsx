@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 export default function About() {
   return (
-    <section className="min-h-screen bg-black text-white flex items-center justify-center px-6 py-20">
+    <section className="min-h-screen bg-black text-white flex items-center justify-center px-6 py-20 mt-10">
       
       <div className="max-w-6xl w-full grid md:grid-cols-2 gap-12 items-center">
 
@@ -24,7 +24,7 @@ export default function About() {
             <img
               src="/ss.jpeg"
               alt="profile"
-              className="relative w-full h-full object-cover rounded-2xl border-4 border-cyan-600 shadow-2xl hover:scale-105 transition duration-500 mt-20"
+              className="relative w-full h-full object-cover rounded-2xl border-4 border-cyan-600 shadow-2xl hover:scale-105 transition duration-500 "
             />
           </div>
         </motion.div>
