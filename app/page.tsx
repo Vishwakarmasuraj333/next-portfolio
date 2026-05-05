@@ -22,10 +22,10 @@ export default function Home() {
         <Typewriter
           options={{
             strings: [
-              "🚀 Full Stack Developer",
+              "Full Stack Developer 🚀",
               "⚡ Building Fast Web Apps",
-              "🎨 Crafting Modern UI/UX",
-              "🔥 Next.js & React Expert",
+              "Crafting Modern UI/UX 🎨 ",
+              " Next.js & React Expert 🔥",
             ],
             autoStart: true,
             loop: true,
